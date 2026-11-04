@@ -1,5 +1,11 @@
 # @langchain/core
 
+## 1.3.5
+
+### Patch Changes
+
+- [#12108](https://github.com/langchain-ai/langchainjs/pull/12108) [`fb61799`](https://github.com/langchain-ai/langchainjs/commit/fb6179926d70c76cc81a238aed4f2ad8c9531d4b) Thanks [@casparb](https://github.com/casparb)! - fix(core): end the `tool()` run when its signal is already aborted
+
 ## 1.3.4
 
 ### Patch Changes
